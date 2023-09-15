@@ -1,2 +1,3 @@
 This here is both a self project and a research work on classification of a person as depressed or not. It involves the the cutting edge natural language processing techniques.
 The training data was the reddit dataset available publicly on kaggle. Here is the workflow:
+![Depressing Research Workflow](https://github.com/KartikeyBartwal/Natural-Language-Processing-Techniques-For-Depression-Diagnosis/assets/98084657/142b7734-2d7d-429d-bd57-4d8ebe54d863)
